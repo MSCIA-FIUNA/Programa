@@ -3,7 +3,4 @@ items:
   name: Home
   icon_class: fa fa-home fa-lg
 
-- url: /Materias/
-  name: Materias
-  icon_class: fas fa-book-reader
 
