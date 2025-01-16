@@ -4,3 +4,4 @@ _site
 .ini
 ./**/desktop.ini
 **/desktop.ini
+desktop.ini
