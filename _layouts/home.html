@@ -4,7 +4,7 @@ layout: default
 
 <div class="home">
 
-    <h1>{{ site.course_name }} <span style="font-size: 20px;color: #0006;">/ {{ site.course_semester }} </span></h1>
+    <h1>MSC_IA_FIUNA_2025 </span></h1>
 
     {% include announcements.html %}
     <br />
@@ -55,7 +55,7 @@ layout: default
                 <h2>Profesores</h2>
                 {% for ta in site.data.people.Profesores %}
                 <div class="image--cover-container">
-                    <! --    <img src="{{ta.profile_pic | prepend: site.baseurl }}" class="image--cover">--> 
+                       <img src="{{ta.profile_pic | prepend: site.baseurl }}" class="image--cover"> 
                     {% if ta.webpage %}
                     <p><a href="{{ ta.webpage }}">{{ta.name}}</a></p>
                     {% else %}
