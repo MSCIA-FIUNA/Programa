@@ -6,9 +6,9 @@ course_semester: "2025"
 baseurl: "/Programa" # the subpath of your site, e.g. /blog/
 url: "https://mscia-fiuna.github.io/Programa/" # the base hostname & protocol for your site
 
-schoolname: "Facultad de Ingenieria"
+schoolname: "Facultad de Ingenieria - Universidad Nacional de Asunción"
 schoolurl: "https://www.ing.una.py"
-twitter_username: username 
+twitter_username: ingenieriauna 
 
 address: |
     Facultad de Ingeniería UNA
