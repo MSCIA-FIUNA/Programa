@@ -1,4 +1,4 @@
 ---
-date: 2018-10-03T10:00:00+3:30
+date: 2025-16-00T10:00:00
 ---
-Sample announcement, Please check out [here](/).
+Lanzamos el flyer con el formulario de Interes.
