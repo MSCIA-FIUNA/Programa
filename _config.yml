@@ -1,6 +1,19 @@
 # Site settings
 course_name: Maestría en Ciencias de la Inteligencia Artificial
 course_description: "Primera maestría en Paraguay con dedicación exclusiva, enfocada en en la aplicación y desarrollo de nuevos algoritmos inteligentes"
+objetives: "El programa busca capacitar a profesionales en:
+Técnicas avanzadas de IA, redes neuronales y aprendizaje profundo.
+Manejo de grandes volúmenes de datos con metodologías modernas.
+Desarrollo de soluciones aplicadas a problemas nacionales en agricultura, medio ambiente y energía.
+Formulación y ejecución de proyectos de investigación en IA.
+"
+
+perfil: "Los postulantes deberán cumplir con los siguientes requisitos:
+Ingenieros/as Recién Egresados de ramas como electrónica, informática, electricidad, electromecánica, mecánica, industrial, civil y egresados de carreras afines con grado de licenciatura, de una universidad paraguaya reconocida por el CONES o de una universidad extranjera con la convalidación correspondiente a las reglamentaciones académicas..
+Nivel del inglés para lectura y escritura de artículos científicos.
+Dedicación exclusiva de 35 hrs Semanales.
+"
+
 course_semester: "2025"
 
 baseurl: "/Programa" # the subpath of your site, e.g. /blog/

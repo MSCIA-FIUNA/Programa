@@ -9,8 +9,12 @@ layout: default
     {% include announcements.html %}
     <br />
 
-    <h2>Course Description</h2>
+    <h2>Resumen</h2>
     <p>{{ site.course_description }}</p>
+    <h2>Objetivos</h2>
+    <p>{{ site.objetives }}</p>
+    <h2>Perfil de Ingreso</h2>
+    <p>{{ site.perfil }}</p>
     
     {{ content }}
 
@@ -33,8 +37,8 @@ layout: default
             </div> -->
 
             <div class="profile-pic-gallary ">
-                <h2>Instructors</h2>
-                {% for ins in site.data.people.instructors %}
+                <h2>Comite Científico</h2>
+                {% for ins in site.data.people.Comite %}
                 <div class="image--cover-container">
                     <img src="{{ins.profile_pic | prepend: site.baseurl }}" class="image--cover">
                     {% if ins.webpage %}
@@ -49,8 +53,8 @@ layout: default
 
         <div style="width:65%; float: left">
             <div class="profile-pic-gallary ">
-                <h2>Teaching Assistants</h2>
-                {% for ta in site.data.people.teaching_assistants %}
+                <h2>Profesores</h2>
+                {% for ta in site.data.people.Profesores %}
                 <div class="image--cover-container">
                     <img src="{{ta.profile_pic | prepend: site.baseurl }}" class="image--cover">
                     {% if ta.webpage %}
