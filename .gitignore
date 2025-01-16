@@ -5,3 +5,4 @@ _site
 ./**/desktop.ini
 **/desktop.ini
 desktop.ini
+ref/d*
