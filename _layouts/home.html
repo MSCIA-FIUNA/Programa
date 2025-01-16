@@ -55,7 +55,7 @@ layout: default
                 <h2>Profesores</h2>
                 {% for ta in site.data.people.Profesores %}
                 <div class="image--cover-container">
-                    <img src="{{ta.profile_pic | prepend: site.baseurl }}" class="image--cover">
+                    <! --    <img src="{{ta.profile_pic | prepend: site.baseurl }}" class="image--cover">--> 
                     {% if ta.webpage %}
                     <p><a href="{{ ta.webpage }}">{{ta.name}}</a></p>
                     {% else %}
