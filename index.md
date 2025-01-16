@@ -1,4 +1,4 @@
 ---
 layout: home
 ---
-Register to our [Google groups page](https://groups.google.com/forum/#!forum/gp-id) to get course notifications via email.
+Formulario de interés [Google Forms](https://forms.gle/crX5verpiwPJuba2A) 
