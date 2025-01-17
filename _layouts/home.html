@@ -37,13 +37,14 @@ layout: default
 
             <div class="profile-pic-gallary ">
                 <h2>Comite Científico</h2>
+                <ul>
                 {% for ins in site.data.people.Comite %}
-                <div >
-                    
-                    <p>{{ins.name}}</p>
-                    <p>{{ins.educacion}}</p>
+                
+                <li>{{ins.name}}
+                    {{ins.educacion}}</li>
 
                 </div>
+            </ul>
                 {% endfor %}
             </div>
         </div>
@@ -51,12 +52,15 @@ layout: default
         <div style="width:65%; float: left">
             <div class="profile-pic-gallary ">
                 <h2>Profesores</h2>
+                <ul>
                 {% for ta in site.data.people.Profesores %}
                 <div >
-                    <p>{{ins.name}}</p>
-                    <p>{{ins.educacion}}</p>
+                    <li>{{ins.name}}
+                    {{ins.educacion}}</li>
+                    
                 </div>
                 {% endfor %}
+            </ul>
             </div>
         </div>
     </div>
