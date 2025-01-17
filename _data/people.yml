@@ -1,16 +1,11 @@
 Comite:
-  - name: Diego Stalder
-          (Coordinador)
+  - name: Diego Stalder (Coordinador), DSc, Instituto Nacional de Investigaciones Espaciales, Brasil.
     profile_pic: /_images/pp/diegosta.jpg
     webpage: https://diegostapy.github.io/
-  - name: Diego Galeano
-        DSc, Royal Holloway, University of London, Inglaterra.
-    - name: Derlis Gregor
-        DSc, Universidad de Sevilla, España.
-  - name: Mario Arzamendia
-        DSc, Universidad de Sevilla, España.
-  - name: Marcos Villagra
-        DSc, Nara Institute of Science and Technology, Japón.
+  - name: Diego Galeano, DSc, Royal Holloway, University of London, Inglaterra.
+  - name: Derlis Gregor, DSc, Universidad de Sevilla, España.
+  - name: Mario Arzamendia, DSc, Universidad de Sevilla, España.
+  - name: Marcos Villagra, DSc, Nara Institute of Science and Technology, Japón.
 
 
   
