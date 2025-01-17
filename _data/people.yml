@@ -11,9 +11,6 @@ Comite:
     educacion: DSc, Universidad de Sevilla, España.
   - name: Marcos Villagra
     educacion: DSc, Nara Institute of Science and Technology, Japón.
-
-
-  
 Profesores:
   - name: Dario Alviso
     educacion:  DSc, Ecole Centrale de Paris / Universidad Nacional de Asunción.
@@ -36,7 +33,7 @@ Profesores:
   - name: Sebastian Grillo (Invitado)
     educacion: DSc, Instituto Alberto Luiz Coimbra, Brasil.
   - name: Cristian Cappo (Invitado)
-   educacion: DSc, Universidad Nacional de Asunción, Paraguay.
+    educacion: DSc, Universidad Nacional de Asunción, Paraguay.
 
 
    
