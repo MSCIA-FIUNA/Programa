@@ -38,9 +38,12 @@ layout: default
             <div class="profile-pic-gallary ">
                 <h2>Comite Científico</h2>
                 {% for ins in site.data.people.Comite %}
-                <div>
+                <div >
+                    
                     <p>{{ins.name}}</p>
-                   </div>
+                    <p>{{ins.educacion}}</p>
+
+                </div>
                 {% endfor %}
             </div>
         </div>
@@ -50,8 +53,8 @@ layout: default
                 <h2>Profesores</h2>
                 {% for ta in site.data.people.Profesores %}
                 <div >
-                    <p>{{ta.name}}</p>
-                    
+                    <p>{{ins.name}}</p>
+                    <p>{{ins.educacion}}</p>
                 </div>
                 {% endfor %}
             </div>
