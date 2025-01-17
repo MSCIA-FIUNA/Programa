@@ -38,14 +38,9 @@ layout: default
             <div class="profile-pic-gallary ">
                 <h2>Comite Científico</h2>
                 {% for ins in site.data.people.Comite %}
-                <div class="image--cover-container">
-                    <img src="{{ins.profile_pic | prepend: site.baseurl }}" class="image--cover">
-                    {% if ins.webpage %}
-                    <p><a href="{{ ins.webpage }}">{{ins.name}}</a></p>
-                    {% else %}
+                <div>
                     <p>{{ins.name}}</p>
-                    {% endif %}
-                </div>
+                   </div>
                 {% endfor %}
             </div>
         </div>
@@ -54,13 +49,9 @@ layout: default
             <div class="profile-pic-gallary ">
                 <h2>Profesores</h2>
                 {% for ta in site.data.people.Profesores %}
-                <div class="image--cover-container">
-                       <img src="{{ta.profile_pic | prepend: site.baseurl }}" class="image--cover"> 
-                    {% if ta.webpage %}
-                    <p><a href="{{ ta.webpage }}">{{ta.name}}</a></p>
-                    {% else %}
+                <div >
                     <p>{{ta.name}}</p>
-                    {% endif %}
+                    
                 </div>
                 {% endfor %}
             </div>
