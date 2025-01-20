@@ -1,6 +1,6 @@
 ---
 type: raw_event
-date: 2026-11-01T00:00:00+0:00
+date: 2026-01-11T00:00:00+0:00
 name: 4to Semestre
 description: 'Materias y actividades'
 hide_from_announcments: true

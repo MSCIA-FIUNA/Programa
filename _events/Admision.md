@@ -1,6 +1,6 @@
 ---
 type: raw_event
-date: 2025-02-01T00:00:00+0:00
+date: 2025-01-02T00:00:00+0:00
 name: Admision
 description: 'Recepción de Candidatos'
 
