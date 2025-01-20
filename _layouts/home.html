@@ -4,7 +4,7 @@ layout: default
 
 <div class="home">
 
-    <h1>MSC IA 2025</span></h1>
+    <h1>MSC IA 2025</h1>
 
     {% include announcements.html %}
     <br />
@@ -31,6 +31,7 @@ layout: default
         <div style="width:35%; float: left">
             <div class="profile-pic-gallary ">
                 <h2>Comite Científico</h2>
+                <div class="image--cover-container">
                 <ul>
                 {% for ins in site.data.people.Comite %}
                    <li>{{ins.name}}
@@ -38,18 +39,21 @@ layout: default
  
                 {% endfor %}
             </ul>
+        </div>
             </div>
         </div>
         <div style="width:65%; float: left">
             <div class="profile-pic-gallary ">
                 <h2>Profesores </h2>
+                <div class="image--cover-container">
                 <ul>
                 {% for ta in site.data.people.Profesores %}
                     <li>{{ins.name}}
                     {{ins.educacion}}</li>
                     
                 {% endfor %}
-            </ul>
+                </ul>
+                </div>
             </div>
         </div>
     </div>
