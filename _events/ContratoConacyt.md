@@ -1,7 +1,7 @@
 ---
 type: raw_event
-date: 2023-02-01T00:00:00+0:00
-name: Admision
-description: 'Recepción de Candidatos'
+date: 2025-04-01T00:00:00+0:00
+name: Adjudicación 
+description: 'Firma de Contrato con Conacyt'
 hide_from_announcments: true
 ---
