@@ -24,7 +24,8 @@ schoolname: "Departamento de Electrónica y Mecatrónica"
 schoolurl: "https://www.ing.una.py"
 twitter_username: ingenieriauna 
 
-address: |
+address:
+    msc.ia@ing.una.py
     Facultad de Ingeniería UNA
     San Lorenzo
     Paraguay

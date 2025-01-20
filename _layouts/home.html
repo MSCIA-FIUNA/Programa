@@ -28,7 +28,7 @@ layout: default
 
     <br>
     <div>
-        <div style="width:35%; float: left">
+        <div style="width:33%; float: left">
             <div class="profile-pic-gallary ">
                 <h2>Comite Científico</h2>
                 <ul>
@@ -40,13 +40,25 @@ layout: default
             </ul>
             </div>
         </div>
-        <div style="width:65%; float: left">
+        <div style="width:33%; float: left">
             <div class="profile-pic-gallary ">
                 <h2>Profesores </h2>
                 <ul>
                 {% for ta in site.data.people.Profesores %}
                     <li>{{ta.name}}
                     {{ta.educacion}}</li>
+                    
+                {% endfor %}
+            </ul>
+            </div>
+        </div>
+        <div style="width:33%; float: left">
+            <div class="profile-pic-gallary ">
+                <h2>Colaboradores  </h2>
+                <ul>
+                {% for colab in site.data.people.Profesoresex %}
+                    <li>{{colab.name}}
+                    {{colab.educacion}}</li>
                     
                 {% endfor %}
             </ul>

@@ -3,4 +3,6 @@ items:
   name: Home
   icon_class: fa fa-home fa-lg
 
-
+- url: /plan/
+  name: Plan
+  icon_class: fas fa-calendar-alt

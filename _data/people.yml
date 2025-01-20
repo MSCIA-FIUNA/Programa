@@ -27,14 +27,21 @@ Profesores:
     educacion: MSc, Instituto de Matemática Pura e Aplicada, Brasil.
   - name: Luis Salgueiro
     educacion: DSc, Universitat Politècnica de Catalunya, España.
-  - name: Jose Colbes
-    educacion: DSc, Centro de Investigación Científica y de Educación Superior de Ensenada, México.
   - name: Jorge Molina
     educacion: DSc, Centro Brasileiro de Pesquisas Físicas, Brasil.
   - name: Sebastian Grillo (Invitado)
     educacion: DSc, Instituto Alberto Luiz Coimbra, Brasil.
   - name: Cristian Cappo (Invitado)
     educacion: DSc, Universidad Nacional de Asunción, Paraguay.
+
+Colaboradores:
+  - name: Alejandro Giangreco
+    educacion:  DSc, Aix-Marseille Université, Francia.
+  - name: Leonardo Jara
+    educacion:  DSc, Universidad de Granada, España.
+  - name: Jose Colbes
+    educacion: DSc, Centro de Investigación Científica y de Educación Superior de Ensenada, México.
+ 
 
 
    
