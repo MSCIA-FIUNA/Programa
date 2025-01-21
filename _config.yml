@@ -31,8 +31,8 @@ schoolurl: "https://www.ing.una.py"
 twitter_username: ingenieriauna 
 
 address:
-    msc.ia@ing.una.py
-    Facultad de Ingeniería UNA
+    msc.ia@ing.una.py <br>
+    Facultad de Ingeniería UNA<br>
     San Lorenzo, Paraguay
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
