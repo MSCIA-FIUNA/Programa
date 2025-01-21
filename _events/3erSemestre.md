@@ -1,6 +1,6 @@
 ---
 type: raw_event
-date: 2026-01-05T00:00:00+0:00
+date: 2026-05-01T00:00:00+0:00
 name: 3er Semestre
 description: 'Materias y actividades'
 hide_from_announcments: true
