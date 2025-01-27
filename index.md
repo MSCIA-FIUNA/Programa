@@ -27,9 +27,8 @@ workshop arbitrado.
 3. Entrevista y Evaluación de Inglés: Los candidatos preseleccionados serán entrevistados para evaluar sus objetivos académicos, habilidades de comunicación y nivel de inglés.
 
 <h2>Criterios de Selección</h2>
-
-    Historial Académico.
-    Cartas de Recomendación.
-    Desempeño en la Entrevista.
-    Nivel de Inglés.
-    Afinidad con las Líneas de Investigación: Sistemas de automatización, vehículos autónomos, ciencia de datos, aprendizaje de máquina, visión computacional, y sistemas complejos.
+1. Historial Académico.
+2. Cartas de Recomendación.
+3. Desempeño en la Entrevista.
+4. Nivel de Inglés.
+5. Afinidad con las Líneas de Investigación: Sistemas de automatización, vehículos autónomos, ciencia de datos, aprendizaje de máquina, visión computacional, y sistemas complejos.
