@@ -19,3 +19,17 @@ workshop arbitrado.
 
 <h2>Formulario de interés </h2>
 [Link al Google Forms](https://forms.gle/crX5verpiwPJuba2A) 
+<h2>Proceso de Admisión</h2>
+1. Formulario en Línea y Presentación de Documentos: Los postulantes deben completar un formulario en línea y presentar documentos como el CV en formato CONACYT, copia del título de grado o carta del tutor indicando el avance del TFG, certificado de estudios, cédula o pasaporte, carta de recomendación confidencial(tutor de TFG) y carta de interés indicando las líneas de investigación de su preferencia.
+
+2.  Análisis de CV y Documentación: El comité académico evaluará el historial académico, la experiencia profesional y la afinidad con las líneas de investigación de FIUNA.
+
+3. Entrevista y Evaluación de Inglés: Los candidatos preseleccionados serán entrevistados para evaluar sus objetivos académicos, habilidades de comunicación y nivel de inglés.
+
+<h2>Criterios de Selección</h2>
+
+    Historial Académico.
+    Cartas de Recomendación.
+    Desempeño en la Entrevista.
+    Nivel de Inglés.
+    Afinidad con las Líneas de Investigación: Sistemas de automatización, vehículos autónomos, ciencia de datos, aprendizaje de máquina, visión computacional, y sistemas complejos.
