@@ -2,17 +2,15 @@
 type: raw_event
 date: 2025-02-01T00:00:00+0:00
 name: Admision
-description: 'Recepción de Candidatos'
+description: 'Proceso de admisión FIUNA (Hasta el 10 de Marzo de 2025)'
 
 hide_from_announcments: true
 ---
-**Documentos Necesarios:**
-1. Formulario de inscripción digital.
+**Etapas:**
+1. (1 de Febrero al 10 de Marzo de 2025) (1 de Febrero al 10 de Marzo de 2025) Formulario en Línea y Presentación de Documentos: Los postulantes deben completar un formulario en línea y presentar documentos como el CV en formato CONACYT, copia del título de grado o carta del tutor indicando el avance del TFG, certificado de estudios, cédula o pasaporte, carta de recomendación confidencial(tutor de TFG) y carta de interés indicando las líneas de investigación de su preferencia.<br>
 
-Adjuntos al Formulario se presenta:
-1.2. Presentar Currículo Vitae actualizado en formato CONACYT (CVpy).
-1.3. Presentar foto tipo carnet (2) dos.
-1.4. Presentar una copia del Titulo de Grado y del Certificado de Estudios.
-debidamente autenticados por el Rectorado de la UNA.
-1.5. Presentar una copia autenticada de la cédula de identidad civil vigente, o en el
-caso de extranjeros radicación y copia autenticada de pasaporte.
+2. (15 de Febrero al 10 de Marzo de 2025)Análisis de CV y Documentación: El comité académico evaluará el historial académico, la experiencia profesional y la afinidad con las líneas de investigación de FIUNA.<br>
+
+3. (1 de Marzo al 21 de Marzo de 2025) Entrevista y Evaluación de Inglés: Los candidatos preseleccionados serán entrevistados para evaluar sus objetivos académicos, habilidades de comunicación y nivel de inglés.
+
+
