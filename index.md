@@ -19,8 +19,12 @@ workshop arbitrado.
 
 <h2>Formulario de interés </h2>
 [Link al Google Forms](https://forms.gle/crX5verpiwPJuba2A) 
+
+<h2>Formulario de interés </h2>
+[Link al Formulario admisión](https://forms.gle/HDX7NqEngs5bE826A) 
 <h2>Proceso de Admisión</h2>
-1. Formulario en Línea y Presentación de Documentos: Los postulantes deben completar un formulario en línea y presentar documentos como el CV en formato CONACYT, copia del título de grado o carta del tutor indicando el avance del Trabajo final de grado, certificado de estudios, cédula o pasaporte, carta de recomendación confidencial(tutor de Trabajo final de grado, opcional) y carta de interés indicando las líneas de investigación de su preferencia.
+1. Formulario en Línea y Presentación de Documentos: Los postulantes deben completar un formulario en línea y presentar documentos como el CV en formato CONACYT, copia del título de grado o carta del tutor indicando el avance del Trabajo final de grado, certificado de estudios, cédula o pasaporte, [carta de recomendación confidencial](/Programa/admision/ModeloCartaRecomendacionConfidencial.docx)(tutor de Trabajo final de grado, opcional) y carta de interés indicando las líneas de investigación de su preferencia.
+
 
 2.  Análisis de CV y Documentación: El comité académico evaluará el historial académico, la experiencia profesional y la afinidad con las líneas de investigación de FIUNA para llamar a entrevista a los 25 mejores puntuados.
 
