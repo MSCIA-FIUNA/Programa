@@ -28,7 +28,8 @@ workshop arbitrado.
 
 <h2>Criterios de Selección</h2>
 1. Historial Académico.
-2. Cartas de Recomendación.
+2. Experiencia previa en proyectos de investigación.
+2. Cartas de Recomendación(Opcional).
 3. Desempeño en la Entrevista.
 4. Nivel de Inglés.
 5. Afinidad con las Líneas de Investigación: Sistemas de automatización, vehículos autónomos, ciencia de datos, aprendizaje de máquina, visión computacional, y sistemas complejos.
